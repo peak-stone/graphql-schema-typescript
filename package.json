@@ -1,5 +1,5 @@
 {
-  "name": "graphql-schema-typescript",
+  "name": "@peak-stone/graphql-schema-typescript",
   "version": "1.2.8",
   "description": "Generate TypeScript from GraphQL's schema type definitions",
   "main": "./lib/index.js",
@@ -24,15 +24,15 @@
     "@types/fs-extra": "4.0.4",
     "@types/graphql": "0.11.5",
     "@types/jest": "21.1.5",
-    "@types/node": "8.0.50",
+    "@types/node": "^8.0.50",
     "@types/yargs": "^11.0.0",
     "fs-extra": "4.0.2",
-    "graphql": "0.11.7",
+    "graphql": "^0.13.2",
     "graphql-tools": "2.7.2",
     "jest": "22.4.3",
     "ts-jest": "22.4.4",
     "tslint": "5.8.0",
-    "typescript": "2.9.2"
+    "typescript": "^2.9.2"
   },
   "dependencies": {
     "yargs": "^11.0.0"
